@@ -10,4 +10,4 @@ Using the images as your guide, build a single mobile responsive webpage.
 - Create a Github account
 - Download the CarNow Frontend Coding Challenge
 - Make your changes to `index.html`, `styles.css`, `scripts.js`
-- Upload 
+- Create a repo on your Github account and upload the modified files above.
