@@ -1,7 +1,8 @@
 # CarNow Frontend Coding Challenge
-Using the images as your guide, build a single mobile responsive webpage. 
+Build a single mobile responsive webpage using the `cn-template` images as your design templates. 
 
 ## Specifications
+- Page must be mobile responsive and should be usable on any device / screen.
 - The top navigation bar should be fixed.
 - The two columns should scroll independently.
 - On small devices (breakpoint of your choosing), the menu icon should toggle the sidebar navigation.
